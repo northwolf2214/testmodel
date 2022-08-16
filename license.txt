@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Plane
+* source:	https://sketchfab.com/3d-models/stylized-plane-748ac6ba3deb4a07b3e2ca56fb433104
+* author:	Kalle (https://sketchfab.com/Kmann880)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Plane" (https://sketchfab.com/3d-models/stylized-plane-748ac6ba3deb4a07b3e2ca56fb433104) by Kalle (https://sketchfab.com/Kmann880) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
